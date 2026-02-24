@@ -1,0 +1,10 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "Music Catalog Subagent": "./agents/music_agent.py:graph"
+    },
+    "env": ".env",
+    "dependencies": [
+      "."
+    ]
+  }
